@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# ContentCraft-AI
+A modern and professional UI design for an AI-powered content generation tool.  Built with React.js and Tailwind CSS Clean and responsive layout Engaging call-to-action (CTA) section Feature showcase with icons Modern navigation with mobile responsiveness Note: Backend integration and functionality are in progress.
+>>>>>>> 37adfde7d5931ae47293c669192a32bd1b757f9d
