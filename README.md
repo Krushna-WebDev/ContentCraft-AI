@@ -1,17 +1,26 @@
-<<<<<<< HEAD
-# React + Vite
+# ContentCraft AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek frontend design for an AI-powered content generator web app — built using **React** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## ✨ Live Demo
+[ContentCraftDesigns](https://contentcraftdesigns.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📋 Installation
+```bash
+git clone https://github.com/Krushna-WebDev/ContentCraft-AI.git
+cd ContentCraft-AI/Frontend
 
-## Expanding the ESLint configuration
+npm install
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# ContentCraft-AI
-A modern and professional UI design for an AI-powered content generation tool.  Built with React.js and Tailwind CSS Clean and responsive layout Engaging call-to-action (CTA) section Feature showcase with icons Modern navigation with mobile responsiveness Note: Backend integration and functionality are in progress.
->>>>>>> 37adfde7d5931ae47293c669192a32bd1b757f9d
+npm run dev
+```
+Then open [localhost:5173](http://localhost:5173) in your browser.
+
+## 🌐 Deployment
+Deployed on **Netlify**: [ContentCraftDesigns](https://contentcraftdesigns.netlify.app)
+
+## 📄 License
+This project is for **personal/educational use** only. For commercial use, contact the author.
+
+## 👨‍💻 Author
+**Krushna-WebDev**
